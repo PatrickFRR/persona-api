@@ -13,9 +13,9 @@ O objetivo foi desenvolver um pequeno sistema para o gerenciamento de pessoas de
 
 Foram utilizados os seguintes requisitos para a execução do projeto desenvolvido:
 
-Java 11.
-Maven 3.8.1 .
-Intellj IDEA Community Edition
-Git e GitHub
-Heroku para o deploy do projeto na nuvem
+- Java 11
+- Maven 3.8.1
+- Intellj IDEA Community Edition
+- Git e GitHub
+- Heroku para o deploy do projeto na nuvem
 
